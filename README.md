@@ -1,4 +1,3 @@
-
 # Markdown Practice
 
 ## About Me
